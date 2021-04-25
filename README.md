@@ -2,9 +2,12 @@
 
 ## URLs
 
-- The URL of the deployed application: <https://mskippen.github.io/whats-in-my-pantry/>
-- The URL of the GitHub repository, with a unique name and a README describing the project: <https://github.com/mskippen/whats-in-my-pantry.git>
-- The URL of our presentation to assist with your user experience: <https://drive.google.com/file/d/1VgKdZtOiFAXgQNw1Jv1laCC5kMSBO7NC/view?usp=sharing>
+- The URL of the deployed application: <https://michellewatts20000.github.io/whats-in-my-pantry/>
+- The URL of the GitHub repository, with a unique name and a README describing the project: <https://github.com/michellewatts20000/whats-in-my-pantry>
+- The URL of our presentation to assist with your user experience: <https://drive.google.com/file/d/1lPUKhVikfyXAwV_BQTKxZ88n-9IMIv4C/view?usp=sharing>
+
+## Technologies used
+HTML, JavaScript, CSS, Bootstrap, JQuery, Recipe Search API, Cat Fact API and FontAwesome.
 
 ## The app functionality
 
@@ -63,4 +66,6 @@ Sona Shrestha	EMAIL:	sona.shrestha004@gmail.com GITHUB: sona29<br>
 Michelle Watts	EMAIL: watts.e.michelle@gmail.com GITHUB: michellewatts20000<br>
 Megan Skippen	EMAIL: msmskippen@gmail.com GITHUB: mskippen<br>
 
-© 2021 project1-06. Confidential and Proprietary. All Rights Reserved
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
