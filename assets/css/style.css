@@ -1,0 +1,70 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Roboto Slab", serif;
+}
+
+h1 {
+  font-family: "Dancing Script", cursive;
+  color: black;
+  font-size: 70px;
+}
+
+h5 {
+  color:black;
+}
+
+#choosen {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.input-group {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.fa-utensils {
+  font-size: 70px;
+  color: black;
+}
+
+.cfact-header {
+  background-color: #ffc107;
+}
+
+.error-header {
+  background-color: #91010d;
+}
+
+#errorModalLabel{
+  color: white;
+}
+
+@media screen and (max-width: 767px) {
+  h1 {
+    font-size: 40px;
+  }
+
+  .fa-utensils {
+    font-size: 40px;
+    color: black;
+  }
+
+  #choosen {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .input-group {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  h5 {
+    color:black;
+    font-size:15px;
+  }
+}
